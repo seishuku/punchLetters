@@ -1,0 +1,3 @@
+Recently picked up a paper tape punch/reader machine and wanted something fun to punch out (other than binary data).
+
+Could use this to generate tape leaders to self-name the tape, or use the code to make a really loud RSS ticker tape printer...
